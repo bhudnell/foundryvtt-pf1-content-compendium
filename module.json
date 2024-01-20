@@ -1,0 +1,37 @@
+{
+  "id": "tubbz-pf1-content",
+  "title": "Tubbz's PF1 Content",
+  "description": "A collection macros and buffs for use in my pf1 games.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "authors": [
+    {
+			"name": "Tubbz",
+			"url": "https://github.com/bhudnell",
+			"discord": "_tubbz"
+		}
+  ],
+  "packs": [
+    {
+      "name": "items",
+      "label": "My Items",
+      "path": "/packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "pf1"
+    },
+    {
+      "name": "macros",
+      "label": "My Macros",
+      "path": "/packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
